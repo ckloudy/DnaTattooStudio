@@ -15,7 +15,7 @@ const Hero = () => {
                                 Artistry in Our Blood, Ink in Our DNA.
                             </h1>
                             <p className="max-w-xl text-lg text-muted-foreground">
-                                We're a small tattoo studio in Carlisle, UK. We create custom
+                                We&apos;re a small tattoo studio in Carlisle, UK. We create custom
                                 tattoos crafted by expert artists. We take your inspiration and
                                 vision, and create something unique to you!
                             </p>

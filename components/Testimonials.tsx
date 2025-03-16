@@ -22,19 +22,19 @@ const Testimonials = () => {
                         },
                         {
                             name: "Taylor S.",
-                            quote: "I've been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
+                            quote: "I&apos;ve been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
                         },
                         {
                             name: "Olivia S.",
-                            quote: "I've been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
+                            quote: "I&apos;ve been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
                         },
                         {
                             name: "Amanda P.",
-                            quote: "I've been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
+                            quote: "I&apos;ve been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
                         },
                         {
                             name: "Hayley W.",
-                            quote: "I've been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
+                            quote: "I&apos;ve been to many studios, but the level of detail and care here is unmatched. Will definitely be back for my next piece.",
                         },
                     ].map((testimonial, index) => (
                         <Card
