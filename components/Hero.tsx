@@ -32,11 +32,7 @@ const Hero = () => {
 
                     {/* Right Column - Angled Image */}
                     <div className="relative h-[400px] md:h-[500px] lg:h-[600px] overflow-hidden">
-                        <div
-                            className="absolute inset-0 transform origin-top-left"
-                            style={{
-                                clipPath: "polygon(30% 0, 100% 0, 100% 100%, 0% 100%)",
-                            }}>
+                        <div className="absolute inset-0 transform origin-top-left hero-clip">
                             <Image
                                 src="/dnaShop.jpg"
                                 alt="Tattoo artist at work"

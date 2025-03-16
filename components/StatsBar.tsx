@@ -32,7 +32,7 @@ const StatsBar = () => {
                         width={1440}
                         height={100}
                         priority
-                        className="absolute bottom-[120px] rotate-180"
+                        className="absolute bottom-[250px] md:bottom-[120px] rotate-180"
                     />
                     <Image
                         src="/divider2.png"
@@ -40,7 +40,7 @@ const StatsBar = () => {
                         width={1440}
                         height={100}
                         priority
-                        className="absolute top-[120px]"
+                        className="absolute top-[250px] md:top-[120px]"
                     />
                 </div>
             </section>

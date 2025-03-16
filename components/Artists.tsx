@@ -22,7 +22,7 @@ const Artists = () => {
                     width={1440}
                     height={100}
                     priority
-                    className="absolute -bottom-44"
+                    className="absolute -bottom-16 sm:-bottom-20 md:-bottom-30 lg:-bottom-40"
                 />
             </div>
         </section>
